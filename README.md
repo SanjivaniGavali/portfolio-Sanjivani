@@ -1,6 +1,3 @@
-# portfolio-ashoka
-### My Personal [Portfolio](https://ashokvavarelive.netlify.app) website.
+# portfolio-sanjivani
+### My Personal [Portfolio](https://sanjivanilive.netlify.app/) website.
  
-<!-- This site was built using [GitHub Pages](https://pages.github.com/).
-
- -->
